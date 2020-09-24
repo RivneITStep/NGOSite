@@ -1,4 +1,4 @@
-### :mortar_board: Дипломна робота на тему «Типовий сайт громадською організації»
+### :mortar_board: Дипломна робота на тему «Типовий сайт громадської організації»
 
 # <img align="center" style="padding:10px 25px;" src="https://github.com/RivneITStep/NGOSite/blob/master/public/images/logoSuperNGO.png" width="200" >
 
